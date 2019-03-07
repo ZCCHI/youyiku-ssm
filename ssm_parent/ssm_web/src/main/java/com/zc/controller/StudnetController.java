@@ -27,4 +27,8 @@ public class StudnetController {
 
         return "show";
     }
+
+    public void test(){
+        System.out.println("nihao");
+    }
 }
